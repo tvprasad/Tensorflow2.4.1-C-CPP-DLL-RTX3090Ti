@@ -8,7 +8,7 @@ Basic Requirements
 #CUDA
 
  Install CUDA 11.0 and download CuDNN (https://developer.nvidia.com/cudnn). After downloading copy all the files to CUDA installed location. 
- Install Bazel 3.1.0 “https://github.com/bazelbuild/bazel/releases/tag/3.1.0”
+ Install Bazel 3.1.0 "https://github.com/bazelbuild/bazel/releases/tag/3.1.0"
  
 Download “bazel-3.1.0-windows-x86_64.exe”
 
